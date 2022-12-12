@@ -10,7 +10,7 @@ import (
 )
 
 const createAccount = `-- name: CreateAccount :one
-INSERT INTO accounts (
+INSERT into accounts (
     owner,
     balance,
     currency
