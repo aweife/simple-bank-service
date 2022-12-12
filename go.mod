@@ -1,4 +1,4 @@
-module github.com/aweife/simple-bank-backend
+module github.com/aweife/simple-bank-service
 
 go 1.19
 

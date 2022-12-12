@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aweife/simple-bank-backend/util"
+	"github.com/aweife/simple-bank-service/util"
 	"github.com/stretchr/testify/require"
 )
 
